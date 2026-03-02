@@ -1,2 +1,17 @@
-# Exploration-REVAMP
- A Quality-of-Life "REVAMP" add-on. Overhauls the Loot Pools of fishing and structure chests. Adds Dynamic Lighting. Discover rare loot as you explore the world!
+# Far & Wide
+
+For more information, view the "**explorationRevamp.pdf**" file.
+
+_Be mindful of MINECRAFT updates potentially causing errors_.
+
+"REVAMP" add-ons were uploaded to these sites ONLY:
+
+- https://www.mcpedl.com/user/lieutsavg99/
+
+- https://www.curseforge.com/members/lieutsavg99/projects
+    
+- https://www.planetminecraft.com/member/lieutsavg99/
+
+I am thankful for those who've downloaded. If you enjoyed, please consider telling others about it! :)
+
+**Feedback**? **Ideas**? Visit the "REVAMP Feedback" forum thread on Planet Minecraft.
